@@ -1,6 +1,6 @@
 # Hi, I'm Neil Lu 👋
 
-Software engineer and founder based in Taichung, Taiwan. I build tools at the intersection of **social sharing × social tech** — helping people turn what they share online into things they can actually use — and I write about it in English for builders across Asia.
+I build the tooling I want to work with — an agentic development environment (Navide), an agent-first browser, and the pipelines behind them. Most of it gets battle-tested delivering production systems for clients at NT IT, then open-sourced.
 
 Founder of [NT IT (@nt-nerdtechnic)](https://github.com/nt-nerdtechnic), where most of my day-to-day work ships. Self-taught, open-source first, local-first when it matters.
 
