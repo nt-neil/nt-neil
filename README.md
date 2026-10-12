@@ -16,7 +16,6 @@ Founder of [NT IT (@nt-nerdtechnic)](https://github.com/nt-nerdtechnic), where m
 ## Currently
 
 - 🔧 Building Navide in public — notes on running a team of coding agents as one person
-- 🔧 Shipping Navide weekly
 - 💬 Open to conversations on agentic dev tools, multi-agent orchestration, and local-first AI
 
 ## Find me
