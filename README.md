@@ -8,10 +8,15 @@ Founder of [NT IT (@nt-nerdtechnic)](https://github.com/nt-nerdtechnic), where m
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Navide](https://github.com/Navide-dev/Navide) | Open-source Agentic Development Environment — one person orchestrating a team of coding agents across the whole SDLC. 60+ releases, EN / 繁中 / 日本語. | Electron · TypeScript |
+| [Navide](https://github.com/Navide-dev/Navide) | Open-source Agentic Development Environment — one person orchestrating a team of coding agents across the whole SDLC. 90+ releases, EN / 繁中 / 日本語. | Electron · TypeScript |
+| [Shentu](https://github.com/nt-neil/shentu) | Open-source LLM security assistant for Linux servers — ask your server in plain language, get short reports; any change waits for human confirmation. One static binary. | Go |
+| [Agent-Version-Control](https://github.com/nt-neil/Agent-Version-Control) | Version control built for many coding agents working at once, without each one duplicating its own worktree, dependencies and build/test processes. | Go |
+| [Homing](https://github.com/nt-neil/homing-protocol) | Open protocol for AI agents to check in and pay creators via PayPal before using their work. | TypeScript |
 | [ClawLaunch](https://github.com/nt-nerdtechnic/ClawLaunch) | Desktop control panel and 6-step onboarding for the OpenClaw AI gateway. | Electron |
 | [RealNote](https://github.com/nt-nerdtechnic/RealNote) | Local-first AI meeting recorder for macOS — mic + system audio, live transcript with speaker labels, on-device minutes. Nothing leaves your machine. | Swift · whisper.cpp |
 | [Agent-Foundry](https://github.com/nt-neil/Agent-Foundry) | Community plugin ecosystem for LLM/agent tools — "the real power of LLMs comes from tools." | Python |
+| [Watch Once](https://github.com/nt-neil/watch-once-teach-human-and-robot) | Meta hackathon entry: turns a teaching video into a manual for humans and JSON for robots, every step traceable to frames. Runs locally. | Python |
+| [MathUniverse](https://github.com/nt-neil/MathUniverse) | Open-source, AI-assisted knowledge base tracking the world's hardest open math problems (繁中 + English). | TeX |
 
 ## Currently
 
